@@ -1,10 +1,10 @@
 fileFormatVersion: 2
-guid: f2887ca6fd90c4834bbf5b6591c79318
+guid: 9296573cbd39b4ac1a88117582630471
 TextureImporter:
   internalIDToNameTable:
   - first:
-      213: 6993389545796303200
-    second: Screenshot 2025-02-20 at 19.44.52-Photoroom_0
+      213: 2004287457675786494
+    second: Cursed Keep Background 1280*736_0
   externalObjects: {}
   serializedVersion: 13
   mipmaps:
@@ -113,7 +113,7 @@ TextureImporter:
     serializedVersion: 2
     sprites:
     - serializedVersion: 2
-      name: Screenshot 2025-02-20 at 19.44.52-Photoroom_0
+      name: Cursed Keep Background 1280*736_0
       rect:
         serializedVersion: 2
         x: 0
@@ -128,8 +128,8 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: 0697e154db28d0160800000000000000
-      internalID: 6993389545796303200
+      spriteID: ef83986d2d8a0db10800000000000000
+      internalID: 2004287457675786494
       vertices: []
       indices: 
       edges: []
@@ -147,8 +147,7 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable:
-      Screenshot 2025-02-20 at 19.44.52-Photoroom_0: 6993389545796303200
+    nameFileIdTable: {}
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 
